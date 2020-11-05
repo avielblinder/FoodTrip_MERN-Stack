@@ -25,35 +25,35 @@
 
 ### Main page.
 
-![FoodTrip](front-end/src/images/foodtrip/Screenshot 2020-11-04 132318.png)
+![FoodTrip](front-end/src/images/foodtrip/132318.png)
 
 ### Unregistered user can enjoy recipes and search recipe by name or ingredients.
 
-![FoodTrip](front-end/src/images/foodtrip/Screenshot 2020-11-04 132455.png)
+![FoodTrip](front-end/src/images/foodtrip/132455.png)
 
 ### When register few options are opening to the user favorites ,get recipe ,create ,edit and delete.
 
-![FoodTrip](front-end/src/images/foodtrip/Screenshot 2020-11-04 132616.png)
+![FoodTrip](front-end/src/images/foodtrip/132616.png)
 
 ### When press the get recipe button the user go to recipe page.
 
-![FoodTrip](front-end/src/images/foodtrip/Screenshot 2020-11-04 132654.png)
+![FoodTrip](front-end/src/images/foodtrip/132654.png)
 
 ### The user can add and remove from favorites by press the hart-favorite icon.
 
-![FoodTrip](front-end/src/images/foodtrip/Screenshot 2020-11-04 132744.png)
+![FoodTrip](front-end/src/images/foodtrip/132744.png)
 
 ### The user can create a new recipe with image file upload.
 
-![FoodTrip](front-end/src/images/foodtrip/Screenshot 2020-11-04 133106.png)
+![FoodTrip](front-end/src/images/foodtrip/133106.png)
 
 ### The user can edit the recipe and choose if he want to edit image.
 
-![FoodTrip](front-end/src/images/foodtrip/Screenshot 2020-11-04 133246.png)
+![FoodTrip](front-end/src/images/foodtrip/133246.png)
 
 ### The user can search for recipe and connect to Edamam API and can get the recipe by pressing at card-link button.
 
-![FoodTrip](front-end/src/images/foodtrip/Screenshot 2020-11-04 132921.png)
+![FoodTrip](front-end/src/images/foodtrip/132921.png)
 
 ## Installation
 
