@@ -53,7 +53,7 @@
 
 ### The user can search for recipe and connect to Edamam API and can get the recipe by pressing at card-link button.
 
-![FoodTrip](front-end/src/images/foodtrip/132921.png)
+![FoodTrip](front-end/src/images/foodtrip/32744.png)
 
 ## Installation
 
