@@ -41,7 +41,7 @@
 
 ### The user can add and remove from favorites by press the hart-favorite icon.
 
-![FoodTrip](front-end/src/images/foodtrip/132744.png)
+![FoodTrip](front-end/src/images/foodtrip/32744.png)
 
 ### The user can create a new recipe with image file upload.
 
@@ -53,7 +53,7 @@
 
 ### The user can search for recipe and connect to Edamam API and can get the recipe by pressing at card-link button.
 
-![FoodTrip](front-end/src/images/foodtrip/32744.png)
+![FoodTrip](front-end/src/images/foodtrip/132921.png)
 
 ## Installation
 
